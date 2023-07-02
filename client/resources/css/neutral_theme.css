@@ -1,0 +1,357 @@
+#window{
+    background-size: cover;
+    background-image: url(../images/bg/bg_neutral_theme_start.png);
+    color: white;
+}
+#box_main_chat{
+    background-image: url(../images/bg/bg_neutral_theme.png);
+}
+#box_main_settings{
+    background-image: url(../images/bg/bg_neutral_theme.png);
+}
+#box_login_start{
+    background-color:rgba(52, 78, 187, 0.85);
+    border-radius: 30px;
+    color: white;
+   }
+   #button_log_in_start{
+       font-family: Nunito;
+       border: 1px;
+       border-color: white;
+       border-radius: 15px;
+       background:rgb(3, 1, 125);
+       font-size: 40px;
+       color: white;
+   }
+   #button_exit_start{
+       font-family: Nunito;
+       border: 1px;
+       border-color: white;
+       border-radius: 15px;
+       background:rgb(3, 1, 125);
+       font-size: 40px;
+       color: white;
+   }
+   #entry_password_start{
+       font-family: Nunito;
+       border:0px;
+       background:rgb(3, 1, 125);
+       border-radius: 10px;
+       font-size: 40px;
+       color: rgba(255, 255, 255, 0.7);
+   }
+   #entry_username_start{
+       font-family: Nunito;
+       border:0px;
+       background:rgb(3, 1, 125);
+       border-radius: 10px;
+       font-size: 40px;
+       color: rgba(255, 255, 255, 0.7);
+   }
+   #label_new_here_registartion_start{
+       font-family: Nunito;
+       border-color:#dfd7cc;
+       font-size: 35px;
+       color: white;
+   }
+   #label_welcome_start{
+       
+       font-family: Baloo;
+       border: 0px;
+       font-size: 60px;
+       color: white;
+   }
+
+#box_blur_settings{
+    background:rgba(52, 77, 187, 0.33);
+}
+#box_left_bar_settings{
+    background:rgb(52, 77, 187);
+    border-radius: 0px 20px 20px 0px;
+}
+#label_settings_settings{
+    color:rgb(192, 192, 192);
+    font-size: 60px;
+    font-family: Baloo;
+}
+#label_comming_soon_settings{
+    color:rgb(192, 192, 192);
+    font-size: 60px;
+    font-family: Baloo;
+}
+#button_active_settings{
+    background:rgb(86, 88, 99);
+    border-color: rgb(85, 85, 85); 
+    border-radius: 15px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px;  
+    font-size: 40px;
+    font-family: Alata;
+    color:rgb(249, 243, 220);
+
+}
+#button_passive_settings{
+    background:rgba(52, 77, 187, 0);
+    border-color: rgb(192, 192, 192); 
+    border-radius: 15px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px; 
+    font-size: 40px;
+    font-family: Alata;
+    color: rgb(192, 192, 192);
+}
+#button_chat_settings{
+    background-color:rgb(52, 77, 187);
+    background-image: url(../images/icons/chat_neutral_theme.png);
+    border-color: rgb(52, 77, 187);  
+    border-radius: 15px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px; 
+}
+#button_settings_settings{
+    background-image: url(../images/icons/settings_neutral_theme.png);
+    border-color: rgb(192, 192, 192);
+    border-radius: 15px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px; 
+}
+
+#box_blur_chat{
+    background:rgba(120, 119, 124, 0.33);
+}
+#box_left_bar_chat{
+    background:rgb(52, 77, 187);
+    border-radius: 0px 20px 20px 0px;
+}
+#button_chat_chat{
+    background-color:rgb(52, 77, 187);
+    background-image: url(../images/icons/chat_neutral_theme.png);
+    border-color: rgb(192, 192, 192);
+    border-radius: 15px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px; 
+}
+#button_settings_chat{
+    background-image: url(../images/icons/settings_neutral_theme.png);
+    border-color: rgb(52, 77, 187);
+    border-radius: 15px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px; 
+}
+#entry_search_chat{
+    background: rgb(192, 192, 192);
+    border-radius: 60px;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 40px;
+    font-family: Nunito;
+}
+#text_field_chat text{
+    background-color: rgb(85, 85, 85);
+    border: 2px;
+    border-color: rgb(250, 243, 217);
+    border-radius: 60px;
+    color: rgba(255, 255, 255, 0.6);
+    font-family: Alata;
+    font-size: 40px;
+}
+#text_field_chat{
+    background-color: rgb(85, 85, 85);
+    border: 2px solid;
+    border-color: rgb(250, 243, 217);
+    border-radius: 60px;
+    color: rgba(255, 255, 255, 0.6);
+    font-family: Alata;
+    font-size: 40px;
+}
+#msg_chat{
+    border-radius: 10px 10px 0px 10px;
+    background: rgb(52, 77, 187);
+    color: rgb(255, 255, 255);
+    font-family: Alata;
+    /* font-weight: 400; */
+    font-size: 40px; 
+  
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  
+    margin-left: 59px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#msg_chat_recv{
+    border-radius: 10px 10px 0px 10px;
+    background: rgb(85, 85, 85);
+    color: rgb(255, 255, 255);
+    font-family: Alata;
+    /* font-weight: 400; */
+    font-size: 40px; 
+  
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  
+    margin-left: 59px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+/*registration*/
+
+#box_main_registration{
+    background-image: url(../images/bg/bg_neutral_theme.png);
+}
+
+#box_registration{
+    background-color:rgba(52, 78, 187, 0.80);
+    background-size: 80px 80px;
+    /* padding: 60px 100px 60px 100px; */
+    border-radius: 30px;
+    color: white;
+}
+
+#label_registration_registration{
+    font-family: Baloo;
+    font-size: 70px;
+    color: white;
+}
+
+#entry_username_registration{
+    font-family: Nunito;
+    border:0px;
+    background:rgb(28, 25, 127);
+    border-radius: 10px;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+#entry_password_registration{
+    font-family: Nunito;
+    border:0px;
+    background:rgb(28, 25, 127);
+    border-radius: 10px;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+#entry_cofirm_password_registration{
+    font-family: Nunito;
+    border:0px;
+    background:rgb(28, 25, 127);
+    border-radius: 10px;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+#button_back_registration{
+    font-family: Nunito;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 15px;
+    background:rgb(28, 25, 127);
+    font-size: 40px;
+    color: white;
+}
+
+#button_cteate_registration{
+    font-family: Nunito;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 15px;
+    background:rgb(28, 25, 127);
+    font-size: 40px;
+    color: white;
+}
+
+#box_golub_registration{
+    background-image: url(../images/icons/golub_neutral.png);
+}
+
+/*THEME*/
+
+#button_light_theme{
+    border: 3px solid;
+    border-color: rgb(85, 85, 85);
+    border-radius: 15px;
+    background:rgb(52, 77, 187);
+}
+
+#box_light_theme{
+    background-image: url(../images/logo/dark_golub.theme_light.png);
+}
+
+#button_neutral_theme{
+    border: 3px solid;
+    border-color: rgb(85, 85, 85);
+    border-radius: 15px;
+    background:rgb(88, 88, 90);
+}
+
+#box_neutral_theme{
+    background-image: url(../images/logo/dark_golub.theme_neutral.png);
+}
+
+#button_dark_theme{
+    border: 3px solid;
+    border-color: rgb(85, 85, 85);
+    border-radius: 15px;
+    background:rgb(52, 77, 187);
+}
+
+#box_dark_theme{
+    background-image: url(../images/logo/dark_golub.theme_dark.png);
+}
+
+#active_dialog_chat{
+    font-family: Alata;
+    font-size: 40px;
+    border-radius: 15px;
+    background:rgb(85, 85, 85);
+    color: rgb(255, 255, 255);
+}
+#active_dialog_box_chat{
+    border-radius: 15px;
+    border-color: rgb(249, 243, 220);
+}
+#add_user_chat{
+    /* border: 3px solid; */
+    /* font-size: 40px; */
+    border-radius: 15px;
+    background:rgb(85, 85, 85);
+    background-image: url(../images/icons/add_neutral_button.png);
+    color: rgb(85, 85, 85);
+    border-color: rgb(52, 77, 187);
+}
+#button_del_chat{
+    /* padding-top: 30px; */
+    background:rgb(249, 243, 220);
+    background-color:rgb(249, 243, 220);
+    border-radius: 15px;
+    background-image: url(../images/icons/dialog_del.png);
+}
+#passive_dialog_chat{
+    border: 3px solid;
+    font-family: Alata;
+    font-size: 40px;
+    border-radius: 15px;
+    background:rgb(32, 158, 172);
+    color: rgb(85, 85, 85);
+    border-color: rgb(85, 85, 85);
+}

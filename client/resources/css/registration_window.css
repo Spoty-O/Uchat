@@ -1,0 +1,12 @@
+#window_registration{
+    background-size: 1920px 1080px;
+    background-image: url(../images/bg/bg_registration.png);
+    color: black;
+}
+#box_registration{
+    background-color:rgb(168, 169, 173);
+    background-size: 80px 80px;
+    padding: 60px 100px 60px 100px;
+    border-radius: 15px;
+    color: black;
+   }

@@ -1,0 +1,44 @@
+#window_chat{
+    background-size: 1920px 1080px;
+    color: black;
+}
+#box_left{
+    background-color: rgb(168, 169, 173);
+    color: white;
+}
+#box_right{
+    background-color: rgb(52, 63, 109);
+    color: white;
+}
+#text_field{
+    background-color: rgb(52, 63, 109);
+    background: rgb(52, 63, 109);
+    border-radius: 30px;
+    font-size: 20px;
+    color: black;
+}
+#box_text_entry{
+    background-size: 1570px 300px;
+    background-color: black; 
+} 
+#scroll_window_chat{
+    background-color: rgba(42, 57, 121, 0.246); 
+}
+#msg {
+    border-radius: 10px 10px 0px 10px;
+    background: rgb(52, 63, 109);
+    color: white;
+    /* font-family: Arial, sans-serif; */
+    font-weight: 400;
+    font-size: 14px; 
+  
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }

@@ -1,0 +1,45 @@
+#window{
+    background-size: cover;
+    background-image: url(../images/bg/background_login.png);
+    color: black;
+}
+#box_login{
+ background-color:rgb(61, 113, 240);
+ /* background-size: 80px 80px; */
+ /* padding: 60px 100px 60px 100px; */
+ border-radius: 20px;
+ color: black;
+}
+#button_log_in{
+    border:0px;
+    background:rgb(32, 41, 59);
+    font-size: 25px;
+    color: rgb(221, 221, 221);
+}
+#button_exit{
+    border:0px;
+    background:rgb(142, 49, 45);
+    font-size: 25px;
+    color: rgb(221, 221, 221);
+}
+/* #button_create_account{
+    background:rgb(168, 169, 173);
+    color: black;
+} */
+#entry_password{
+    border:0px;
+    background:rgb(32, 41, 59);
+    border-radius: 10px;
+    font-size: 25px;
+    color: white;
+}
+#entry_login{
+    border:0px;
+    background:rgb(32, 41, 59);
+    border-radius: 10px;
+    font-size: 25px;
+    color: white;
+}
+/* #box_buttons{
+    background:rgb(32, 41, 59);
+} */
